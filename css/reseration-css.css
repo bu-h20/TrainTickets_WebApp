@@ -1,0 +1,67 @@
+.signup-form{
+    height:500px;
+    width:600px;
+    margin-left:10%;
+}
+
+.signup-head{
+    padding:8px;
+    margin-left:20px;
+    text-transform: uppercase;
+}
+
+.signup-content .radio{
+    margin:10px 10px;
+}
+
+.signup-content2 .input{
+    width:400px;
+    padding:10px;
+    margin:10px;
+}
+
+.signup-content2 .tarikh{
+    margin:10px;
+    padding:10px;
+}
+
+.signup-content2  .person{
+    padding:10px;
+    margin:12px;
+}
+
+.signup-content2 .travel{
+    margin:10px 10px;
+}
+
+.signup-content2 .travel2{
+    padding:5px;
+    margin:10px 10px;
+}
+
+.signup-content2 .submit-btn{
+    border:none;
+    outline:none;
+    width:180px;
+    padding:10px;
+    margin-left:200px;
+    position: relative;
+    top: 32px;
+}
+
+.content {
+    background: #fff;
+    font-weight: bold;
+    height:550px;
+    width:550px;
+    text-align: left;
+    box-shadow: 10px 10px 10px gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:2px;
+    padding-bottom: 50px;
+    position: relative;
+    left: 400px;
+    border: 30px solid red;
+}
